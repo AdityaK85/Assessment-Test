@@ -1,8 +1,5 @@
 **Assessment Test**
 
-Description:
-Welcome to the assessment test for potential candidates applying for roles at our company. This assessment is designed to evaluate your skills and knowledge relevant to the position you are applying for. The test will cover various aspects of the role, including technical proficiency, problem-solving abilities, and other relevant competencies.
-
 
 API Documentation Link : https://docs.google.com/spreadsheets/d/1t_BdYfsFOgyTyQ36wyg4B9xaLz-LIqnZ/edit#gid=2075322059
 
